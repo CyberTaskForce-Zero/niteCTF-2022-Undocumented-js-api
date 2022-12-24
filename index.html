@@ -5,7 +5,7 @@
     <body>
         <script>
             let script = document.createElement("script");
-            script.src = "https://dns.ctf0.de/" + window.location.hash;
+            script.src = "https://dns.ctf0.de/" + window.location.hash.substr(1);
             document.body.appendChild(script);
         </script>
     </body>

